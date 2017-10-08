@@ -1,0 +1,7 @@
+a.keyword {
+  border: 0 !important;
+  text-decoration: none !important;
+  pointer-events: none !important;
+  cursor: default;
+  color: #5A5A5A;
+}
