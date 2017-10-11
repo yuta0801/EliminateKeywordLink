@@ -8,12 +8,19 @@
 
 ## Features
 
-- リンクを解除
-- デザインを復元
+`*.hatenablog.com`で自動にアンカータグ(リンク)を削除
 
 ## Requirement
 
 Google Chrome
+
+## Installation
+
+ウェブストアからインストールする
+- [Chrome ウェブストア](https://chrome.google.com/webstore/detail/eliminate-keyword-link/acfoagnnjhdmdoijflpmoakfgcekefnb?hl=ja)
+
+ソースコードからインストールする
+- [GitHub Release](https://github.com/yuta0801/EliminateKeywordLink/releases)
 
 ## Author
 
